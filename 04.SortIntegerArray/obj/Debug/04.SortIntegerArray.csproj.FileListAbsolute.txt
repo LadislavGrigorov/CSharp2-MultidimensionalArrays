@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\04.SortIntegerArray\bin\Debug\04.SortIntegerArray.exe.config
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\04.SortIntegerArray\bin\Debug\04.SortIntegerArray.exe
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\04.SortIntegerArray\bin\Debug\04.SortIntegerArray.pdb
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\04.SortIntegerArray\obj\Debug\04.SortIntegerArray.exe
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\04.SortIntegerArray\obj\Debug\04.SortIntegerArray.pdb
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\04.SortIntegerArray\obj\Debug\04.SortIntegerArray.csprojResolveAssemblyReference.cache

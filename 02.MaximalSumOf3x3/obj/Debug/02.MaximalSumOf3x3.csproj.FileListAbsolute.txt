@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\02.MaximalSumOf3x3\bin\Debug\02.MaximalSumOf3x3.exe.config
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\02.MaximalSumOf3x3\bin\Debug\02.MaximalSumOf3x3.exe
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\02.MaximalSumOf3x3\bin\Debug\02.MaximalSumOf3x3.pdb
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\02.MaximalSumOf3x3\obj\Debug\02.MaximalSumOf3x3.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\02.MaximalSumOf3x3\obj\Debug\02.MaximalSumOf3x3.exe
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\02.MaximalSumOf3x3\obj\Debug\02.MaximalSumOf3x3.pdb

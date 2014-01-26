@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\05.SortArrayOfStrings\bin\Debug\05.SortArrayOfStrings.exe.config
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\05.SortArrayOfStrings\bin\Debug\05.SortArrayOfStrings.exe
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\05.SortArrayOfStrings\bin\Debug\05.SortArrayOfStrings.pdb
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\05.SortArrayOfStrings\obj\Debug\05.SortArrayOfStrings.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\05.SortArrayOfStrings\obj\Debug\05.SortArrayOfStrings.exe
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\05.SortArrayOfStrings\obj\Debug\05.SortArrayOfStrings.pdb

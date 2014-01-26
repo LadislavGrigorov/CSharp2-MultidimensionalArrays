@@ -1,0 +1,6 @@
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\03.StringMatrix\bin\Debug\03.StringMatrix.exe.config
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\03.StringMatrix\bin\Debug\03.StringMatrix.exe
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\03.StringMatrix\bin\Debug\03.StringMatrix.pdb
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\03.StringMatrix\obj\Debug\03.StringMatrix.csprojResolveAssemblyReference.cache
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\03.StringMatrix\obj\Debug\03.StringMatrix.exe
+D:\Telerik\C# Part 2\MultidimensionalArrays\MultidimensionalArrays-Homework\MultidimensionalArrays\03.StringMatrix\obj\Debug\03.StringMatrix.pdb
